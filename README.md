@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+### My Skills
 <div>
 	<code><img height="40" src="https://github.com/DanDonch/DanDonch/blob/main/assets/Java.png" /></code>
 	<code><img height="40" src="https://github.com/DanDonch/DanDonch/blob/main/assets/Spring.png" alt="Spring" title="Spring" /></code>
