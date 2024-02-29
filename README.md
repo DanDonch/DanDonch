@@ -3,7 +3,7 @@
 <div>
 	<code><img height="40" src="https://github.com/DanDonch/DanDonch/blob/main/assets/Java.png" /></code>
 	<code><img height="40" src="https://github.com/DanDonch/DanDonch/blob/main/assets/Spring.png" alt="Spring" title="Spring" /></code>
-	<code><img height="40" src="https://github.com/DanDonch/DanDonch/blob/main/assets/SpringBoot.png" alt="Spring Boot" title="Spring Boot" /><code>
+	<code><img height="40" src="https://github.com/DanDonch/DanDonch/blob/main/assets/SpringBoot.png" alt="Spring Boot" title="Spring Boot" /></code>
 	<code><img height="40" src="https://github.com/DanDonch/DanDonch/blob/main/assets/Hibernate.png" alt="Hibernate" title="Hibernate" /></code>
 	<code><img height="40" src="https://github.com/DanDonch/DanDonch/blob/main/assets/PostgreSQL.png" alt="PostgreSQL" title="PostgreSQL" /></code>
 	<code><img height="40" src="https://github.com/DanDonch/DanDonch/blob/main/assets/MySQL.png" alt="MySQL" title="MySQL" /></code>
